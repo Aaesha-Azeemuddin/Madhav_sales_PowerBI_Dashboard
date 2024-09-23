@@ -1,7 +1,7 @@
 # Madhav Sales Power BI Dashboard
-# Project Overview:
+## Project Overview:
 This project involves creating a Power BI dashboard for Madhav Sales, an eCommerce platform. The dashboard provides insights into the company's sales performance across different regions, product categories, and customer segments.
-# Key Features:
+## Key Features:
 
 **Sales Overview:** A summary of total sales, average sales per region, and growth trends.
 
@@ -13,13 +13,13 @@ This project involves creating a Power BI dashboard for Madhav Sales, an eCommer
 
 **Interactive Visualizations:** Users can interact with filters to explore data by year, region, or product type.
 
-# Tools & Technologies Used:
+## Tools & Technologies Used:
 
 **Power BI:** For data visualization and dashboard creation.
 
 **DAX (Data Analysis Expressions):** For creating calculated fields and custom measures in Power BI.
 
-# Insights & Conclusion:
+## Insights & Conclusion:
 
 The Madhav Sales dashboard helps the company track its sales performance effectively. It provides key stakeholders with a clear view of sales trends, identifies opportunities for growth in underperforming regions, and helps focus marketing efforts on high-value product categories.
 
